@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20561395019",
+    "project_id": "jasonvehicletrading",
+    "storage_bucket": "jasonvehicletrading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20561395019:android:7d7dfb86bc268b364cfcce",
+        "android_client_info": {
+          "package_name": "com.example.jasonvehicletrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20561395019-lplkvdnj9pjt7tbajp2esli890bt8u2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3ReMWa4LGQNiLM_2VieH7hhU_hl-cel4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20561395019-lplkvdnj9pjt7tbajp2esli890bt8u2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
